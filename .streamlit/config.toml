@@ -1,0 +1,6 @@
+[theme]
+primaryColor = "#7c3aed"            # Violet accent
+backgroundColor = "#070b19"         # Ultra-dark deep space blue/slate background
+secondaryBackgroundColor = "#0e172a" # Rich slate for cards and sidebar
+textColor = "#f8fafc"               # Light slate for primary text
+font = "sans serif"
